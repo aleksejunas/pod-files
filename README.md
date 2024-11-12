@@ -1,15 +1,27 @@
-# Aleksejunas Fileserver Project
+# PodFiles Fileserver Project
 
-Welcome to 👋 **PodFiles** 👋, a full-stack web application project that includes a file-server backend and a React front-end, designed to run using Podman containers. The application enables file uploads and serves files through a simple and user-friendly interface.
+Welcome to 👋 **PodFiles** 👋, a full-stack web application project that includes a file-server backend and a React front-end, designed to run using Podman containers and Ansible for automation. The application enables file uploads and serves files through a simple and user-friendly interface.
 
 ## Project Structure
 
+The Project is divided into four repos
+
 ```
-project-root/
-├── backend/ # Node.js file server
-├── frontend/ # React application for the front-end
-└── ansible/ # Ansible playbooks for automation
+project-root repo/ - PodFiles
+├── backend/ # Node.js file server (pod-files-backend)
+├── frontend/ # React application for the front-end (pod-files-frontend
+└── ansible/ # Ansible playbooks for automation (pod-files-ansible-automation)
 ```
+
+## Links to the repos
+
+[https://github.com/aleksejunas/pod-files-backend]
+[https://github.com/aleksejunas/pod-files-frontend]
+[https://github.com/aleksejunas/pod-files-ansible-automation]
+
+
+
+
 
 ## Features
 
