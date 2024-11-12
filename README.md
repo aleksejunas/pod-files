@@ -7,9 +7,9 @@ Welcome to 👋 **PodFiles** 👋, a full-stack web application project that inc
 The Project is divided into four repos
 
 ```
-project-root repo/ - PodFiles
+project-root repo/ - PodFiles (Current repo)
 ├── backend/ # Node.js file server (pod-files-backend)
-├── frontend/ # React application for the front-end (pod-files-frontend
+├── frontend/ # React application for the front-end (pod-files-frontend)
 └── ansible/ # Ansible playbooks for automation (pod-files-ansible-automation)
 ```
 
